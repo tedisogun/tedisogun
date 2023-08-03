@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tedisogun
-- 🍎 currently focus on apple ecosystems apps
-
+-  Currently focus on Apple ecosystems
+- 🏋️ Not much bullshit, just code every day like bodybuilder go to the gym everyday
 
 <!---
 tedisogun/tedisogun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
